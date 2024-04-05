@@ -12,7 +12,7 @@ public class UseNote {
 		n1.isQuality = true;
 		n1.noOfPages = 120;
 		n1.paper= p1;
-		
+		System.out.println(" Gowtham ");
 		System.out.println(n1.brand+" "+n1.price+" "+n1.isQuality+" "+n1.noOfPages+" "+n1.paper.color+" "+n1.paper.isRuled);
 		
 	}
